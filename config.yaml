@@ -1,0 +1,7 @@
+path: C:\Users\Sagar\Python files_Jupiter\Git Repo Local\SIH traffic project\data # dataset root dir
+train: images\train # train images
+val: images\val # validation images
+
+nc: 14
+# Classes
+names: ['Ambulance','Bicycle','Bus','Fire_Hydrant','Bike','Truck','Unicycle','Van','Car','Taxi','Green_Auto','Red_Auto','Land_Train','Tractor']
